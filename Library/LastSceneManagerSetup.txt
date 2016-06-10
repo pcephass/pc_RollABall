@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Scenes/pc_ballgame.unity
+  isLoaded: 1
+  isActive: 1

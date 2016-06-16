@@ -9,4 +9,4 @@
 <br><br>
 ![Alt text](https://github.com/pcephass/pc_RollABall/blob/master/screenshots/pic2.jpg)
 <br><br>
-
+<b>Controls.</b>
